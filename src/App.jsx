@@ -336,7 +336,6 @@ export default function TicketQRManager() {
       >
         Skip to main content
       </a>
-
       <div role="status" aria-live="polite" className="sr-only">
         {liveMessage}
       </div>
